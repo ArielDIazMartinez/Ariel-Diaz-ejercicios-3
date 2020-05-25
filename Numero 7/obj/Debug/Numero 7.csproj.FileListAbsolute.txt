@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero 7\bin\Debug\Numero 7.exe.config
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero 7\bin\Debug\Numero 7.exe
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero 7\bin\Debug\Numero 7.pdb
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero 7\obj\Debug\Numero 7.exe
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero 7\obj\Debug\Numero 7.pdb

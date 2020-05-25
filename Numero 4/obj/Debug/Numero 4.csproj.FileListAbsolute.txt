@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero 4\bin\Debug\Numero 4.exe.config
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero 4\bin\Debug\Numero 4.exe
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero 4\bin\Debug\Numero 4.pdb
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero 4\obj\Debug\Numero 4.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero 4\obj\Debug\Numero 4.exe
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero 4\obj\Debug\Numero 4.pdb

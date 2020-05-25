@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero3\obj\Debug\Numero3.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero3\bin\Debug\Numero3.exe.config
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero3\bin\Debug\Numero3.exe
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero3\bin\Debug\Numero3.pdb
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero3\obj\Debug\Numero3.exe
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero3\obj\Debug\Numero3.pdb

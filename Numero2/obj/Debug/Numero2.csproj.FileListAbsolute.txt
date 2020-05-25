@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero2\obj\Debug\Numero2.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero2\bin\Debug\Numero2.exe.config
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero2\bin\Debug\Numero2.exe
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero2\bin\Debug\Numero2.pdb
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero2\obj\Debug\Numero2.exe
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero2\obj\Debug\Numero2.pdb

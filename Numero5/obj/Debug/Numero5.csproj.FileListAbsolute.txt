@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero5\bin\Debug\Numero5.exe.config
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero5\bin\Debug\Numero5.exe
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero5\bin\Debug\Numero5.pdb
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero5\obj\Debug\Numero5.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero5\obj\Debug\Numero5.exe
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero5\obj\Debug\Numero5.pdb
