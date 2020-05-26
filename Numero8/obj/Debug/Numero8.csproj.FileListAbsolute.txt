@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero8\bin\Debug\Numero8.exe.config
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero8\bin\Debug\Numero8.exe
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero8\bin\Debug\Numero8.pdb
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero8\obj\Debug\Numero8.exe
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Numero8\obj\Debug\Numero8.pdb
+C:\Users\Asus\Desktop\Nueva Carpeta(2)\Numero8\bin\Debug\Numero8.exe.config
+C:\Users\Asus\Desktop\Nueva Carpeta(2)\Numero8\bin\Debug\Numero8.exe
+C:\Users\Asus\Desktop\Nueva Carpeta(2)\Numero8\bin\Debug\Numero8.pdb
+C:\Users\Asus\Desktop\Nueva Carpeta(2)\Numero8\obj\Debug\Numero8.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Nueva Carpeta(2)\Numero8\obj\Debug\Numero8.exe
+C:\Users\Asus\Desktop\Nueva Carpeta(2)\Numero8\obj\Debug\Numero8.pdb
